@@ -49,6 +49,7 @@ Solids are classified based on the relative values of electrical **conductivity 
 **Note:**
 1. Semiconductors have a much **higher resistivity** than metals.
 2. The resistivity of semiconductors **decreases rapidly with temperature** (they have a negative temperature coefficient, $\alpha$). The resistivity of metals increases with temperature.
+3. Semiconductors have a considerably lower number density n of charge carriers (charge carriers per unit volume) than metals.
 
 ---
 
@@ -64,7 +65,7 @@ When atoms are brought together to form a solid, the discrete energy levels of i
 | :--- | :--- | :--- |
 | **Metals** | $\mathbf{E_g = 0}$ or very small (bands overlap). | The valence band is partially filled, or the valence band overlaps with the conduction band. Conduction is easy. |
 | **Insulators** | $\mathbf{E_g > 3\ \text{eV}}$ (Large). | The conduction band is empty. $E_g$ is too large for thermal energy to excite electrons to $E_c$. (e.g., Diamond, $E_g \approx 6\ \text{eV}$) |
-| **Semiconductors** | $\mathbf{E_g < 3\ \text{eV}}$ (Small). | At room temperature, some electrons gain enough energy to jump across the small $E_g$ to the conduction band. (e.g., Ge $E_g = 0.72\ \text{eV}$, Si $E_g = 1.1\ \text{eV}$) |
+| **Semiconductors** | $\mathbf{E_g < 3\ \text{eV}}$ (Small). | At room temperature, some electrons gain enough energy to jump across the small $E_g$ to the conduction band. (e.g., Ge $E_g = 0.72\ \text{eV}$, Si $E_g = 1.1\ \text{eV}$). Therefore, the semiconductor at zero kelvin behaves as insulator. |
 
 ---
 
